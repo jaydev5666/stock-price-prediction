@@ -22,6 +22,11 @@ yarn-error.log*
 .env.*
 !.env.example
 
+# Project planning docs
+01_PROJECT_REQUIREMENTS.md
+02_SYSTEM_DESIGN.md
+03_ARCHITECTURE_DECISIONS.md
+
 # Local data, caches, and generated ML artifacts
 backend/storage/app.db
 backend/storage/cache/
